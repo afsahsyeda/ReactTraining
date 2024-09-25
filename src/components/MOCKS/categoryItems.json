@@ -1,0 +1,74 @@
+{
+  "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+  "title": "Recommended",
+  "itemCards": [
+    {
+      "card": {
+        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+        "info": {
+          "id": "102528159",
+          "name": "Dumroot",
+          "category": "Desserts",
+          "description": "Serves 1",
+          "imageId": "m5zappttnmsplkxpeidj",
+          "inStock": 1,
+          "isVeg": 1,
+          "price": 6190,
+          "variants": {},
+          "variantsV2": {},
+          "itemAttribute": {
+            "vegClassifier": "VEG",
+            "portionSize": "Serves 1"
+          },
+          "ribbon": {},
+          "showImage": true,
+          "itemBadge": {},
+          "badgesV2": {},
+          "ratings": {
+            "aggregatedRating": {
+              "rating": "4.4",
+              "ratingCount": "201 ratings",
+              "ratingCountV2": "201"
+            }
+          }
+        },
+        "analytics": {},
+        "hideRestaurantDetails": true
+      }
+    },
+    {
+      "card": {
+        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+        "info": {
+          "id": "59234224",
+          "name": "Raw Pressery Coconut Water 200ml",
+          "category": "Beverages",
+          "description": "Every athletes go to natural energy drink; coconut water is a complete win-win for your everyday rehydration needs. #iaminlovewiththecoco!\n",
+          "imageId": "sabnujtioqqu6zlwl46k",
+          "inStock": 1,
+          "isVeg": 1,
+          "price": 5714,
+          "variants": {},
+          "variantsV2": {},
+          "itemAttribute": {
+            "vegClassifier": "VEG"
+          },
+          "ribbon": {},
+          "showImage": true,
+          "itemBadge": {},
+          "badgesV2": {},
+          "ratings": {
+            "aggregatedRating": {
+              "rating": "4.4",
+              "ratingCount": "276 ratings",
+              "ratingCountV2": "276"
+            }
+          }
+        },
+        "analytics": {},
+        "hideRestaurantDetails": true
+      }
+    }
+  ],
+  "type": "CATEGORY_TYPE_RECOMMENDED"
+}

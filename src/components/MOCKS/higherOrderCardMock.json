@@ -1,0 +1,80 @@
+{
+  "id": "393984",
+  "name": "Kwality Walls Ice Cream and More",
+  "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/20/8a805aa7-6029-4b58-814b-b0be873af3dd_393984.JPG",
+  "locality": "Jayanagar",
+  "areaName": "Jayanagar",
+  "costForTwo": "₹300 for two",
+  "cuisines": ["Desserts", "Ice Cream", "Ice Cream Cakes"],
+  "avgRating": 4.5,
+  "veg": true,
+  "parentId": "582",
+  "avgRatingString": "4.5",
+  "totalRatingsString": "295",
+  "sla": {
+    "deliveryTime": 13,
+    "lastMileTravel": 1.3,
+    "serviceability": "SERVICEABLE",
+    "slaString": "10-15 mins",
+    "lastMileTravelString": "1.3 km",
+    "iconType": "ICON_TYPE_EMPTY"
+  },
+  "availability": {
+    "nextCloseTime": "2024-09-23 22:00:00",
+    "opened": true
+  },
+  "badges": {
+    "imageBadges": [
+      {
+        "imageId": "v1695133679/badges/Pure_Veg111.png",
+        "description": "pureveg"
+      }
+    ]
+  },
+  "isOpen": true,
+  "type": "F",
+  "badgesV2": {
+    "entityBadges": {
+      "imageBased": {
+        "badgeObject": [
+          {
+            "attributes": {
+              "description": "pureveg",
+              "imageId": "v1695133679/badges/Pure_Veg111.png"
+            }
+          }
+        ]
+      },
+      "textBased": {},
+      "textExtendedBadges": {}
+    }
+  },
+  "aggregatedDiscountInfoV3": {
+    "header": "₹100 OFF",
+    "subHeader": "ABOVE ₹349",
+    "discountTag": "FLAT DEAL"
+  },
+  "orderabilityCommunication": {
+    "title": {},
+    "subTitle": {},
+    "message": {},
+    "customIcon": {}
+  },
+  "differentiatedUi": {
+    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+    "differentiatedUiMediaDetails": {
+      "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+      "lottie": {},
+      "video": {}
+    }
+  },
+  "reviewsSummary": {},
+  "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+  "restaurantOfferPresentationInfo": {},
+  "externalRatings": {
+    "aggregatedRating": {
+      "rating": "--"
+    }
+  },
+  "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+}
